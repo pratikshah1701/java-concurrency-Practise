@@ -308,4 +308,6 @@ public final class ReactorTests {
             // Block until the processing is finished.
             .block();
     }
+
+    System.out.print("---------");
 }
